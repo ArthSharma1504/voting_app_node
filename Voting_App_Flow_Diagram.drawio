@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="O6Ocl5-zOURX-OVaoWT8">
+    <mxGraphModel dx="1195" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-1" target="dNyeTWDt9TapOBtCWA2l-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-1" value="Create User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-2" target="dNyeTWDt9TapOBtCWA2l-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-2" value="Login user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-3" target="dNyeTWDt9TapOBtCWA2l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-3" value="User" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-7" target="dNyeTWDt9TapOBtCWA2l-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-7" value="Voting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-10" value="List of Electors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-15" value="List of Electors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.375;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-20" target="dNyeTWDt9TapOBtCWA2l-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-17" value="List of Electors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-7" target="dNyeTWDt9TapOBtCWA2l-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GET/candidates&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;POST vote/:candidates&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GET vote/count&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-24" target="dNyeTWDt9TapOBtCWA2l-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-24" target="dNyeTWDt9TapOBtCWA2l-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNyeTWDt9TapOBtCWA2l-24" target="dNyeTWDt9TapOBtCWA2l-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-24" value="candidate management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;role = &#39;admin&#39;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-27" value="delete elector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-28" value="update existing elector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-29" value="create elector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;POST /electors&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;PUT /electors/:electorId&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DELETE&amp;nbsp; /electors/:electorId&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;POST /signup&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;POST /login&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-40" value="Access Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-41" value="Update password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dNyeTWDt9TapOBtCWA2l-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="340" as="sourcePoint" />
+            <mxPoint x="360" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dNyeTWDt9TapOBtCWA2l-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="425" />
+              <mxPoint x="400" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GET /profile&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNyeTWDt9TapOBtCWA2l-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;PUT /profile/password&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
